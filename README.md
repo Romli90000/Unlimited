@@ -16,4 +16,4 @@
      
        $ python2 Spam-WA.py
 
-##RECODE IZIN DULU##
+**asterisks dan _underscores_**.
