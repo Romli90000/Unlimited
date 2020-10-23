@@ -1,26 +1,17 @@
 # SPAM WA UNLIMITED
 
-$ pkg update && upgrade
+       $ pkg update && upgrade
 
-$ pkg install python2
+       $ pkg install python2
 
-$ pkg install git
+       $ pkg install git
 
-$ pip2 install requests
+       $ pip2 install requests
 
-$ pip2 install mechanize
+       $ pip2 install mechanize
 
-$ git clone https://github.com/Romli90000/Unlimited
+       $ git clone https://github.com/Romli90000/Unlimited
 
-$ cd Unlimited
-
-$ python2 Spam-Wa.py
-
-
-
-
-
-
-
-
-          Subscribe cannel AVATAR ID
+       $ cd Unlimited
+     
+       $ python2 Spam-WA.py
