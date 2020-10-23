@@ -17,4 +17,3 @@
        $ python2 Spam-WA.py
 
 
-double **asterisks** atau __underscores__.
